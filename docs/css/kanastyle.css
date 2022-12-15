@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+
+
+html, button, input, select, textarea {
+font-family:Verdana, Geneva, sans-serif;
+}
+
+textarea {
+font-size: 2em;
+max-width:95%;
+color: #2b686e;
+}
